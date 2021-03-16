@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: 공부벌레 권형준
+bio: 공부를 위해 태어난 사나이
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -34,9 +34,9 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-# instagram: myinstagram
+# facebook: myfacebook
+# twitter: mytwitter
+instagram: https://www.instagram.com/joshuakwon/
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
@@ -47,10 +47,10 @@ github: mygithub
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: 2021312104@yonsei.ac.kr
 
 authors:
   johndoe:
